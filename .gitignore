@@ -1,0 +1,12 @@
+# Project ignore files
+/.settings
+/.classpath
+/.project
+/.tomcatplugin
+/target
+/work
+/src/main/webapp/.#webclasspath
+
+.idea
+
+quest.iml
